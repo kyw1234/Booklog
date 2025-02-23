@@ -1,0 +1,31 @@
+/* 기본 스타일 */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 50px;
+}
+
+/* 제목 스타일 */
+h1 {
+    font-size: 2.5em;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 2em;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+/* 버튼 스타일 */
+.button {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    padding: 12px 20px;
+    margin: 10px;
+    font-size: 1.2em;
+    border-radius: 5px;
+    text-decorat
